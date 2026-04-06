@@ -5,7 +5,7 @@ permalink: /docs/setup/
 {% raw %}
 # Blog Setup Reference
 
-Operational reference for [fighter-zc.github.io](https://fighter-zc.github.io).
+Operational reference for [zachc-ai.github.io](https://zachc-ai.github.io).
 
 ## Stack
 
@@ -28,7 +28,7 @@ GitHub Discussions-based comment system, loaded in `_layouts/post.html`.
 
 | Key | Value |
 |-----|-------|
-| repo | `Fighter-ZC/Fighter-ZC.github.io` |
+| repo | `zachc-ai/zachc-ai.github.io` |
 | repo_id | `R_kgDORoQKJg` |
 | category | Announcements |
 | category_id | `DIC_kwDORoQKJs4C4jVh` |
@@ -44,8 +44,8 @@ GitHub Discussions-based comment system, loaded in `_layouts/post.html`.
 Privacy-respecting, cookieless analytics.
 
 - **Config location**: `_includes/custom-head.html`
-- **Site code**: `fighter-zc`
-- **Dashboard**: https://fighter-zc.goatcounter.com
+- **Site code**: `zachc-ai`
+- **Dashboard**: https://zachc-ai.goatcounter.com
 - **Disable**: comment out the `<script>` tag in `custom-head.html`
 
 ## Content Structure

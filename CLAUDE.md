@@ -1,4 +1,4 @@
-# Fighter-ZC.github.io
+# zachc-ai.github.io
 
 Personal GitHub Pages blog (Jekyll).
 

@@ -362,7 +362,7 @@ I started writing here because I wanted a place to slow down and process what I'
 
 Topics you'll find here: AI and how it's changing the way we build things, engineering practices, neuroscience of productivity, and the occasional life update.
 
-If you want to get in touch, find me on [GitHub](https://github.com/Fighter-ZC).
+If you want to get in touch, find me on [GitHub](https://github.com/zachc-ai).
 ```
 
 **Step 2: Commit**
@@ -463,11 +463,11 @@ author:
   name: ZC
 
 # Giscus comments — fill in after enabling GitHub Discussions
-# 1. Go to https://github.com/Fighter-ZC/Fighter-ZC.github.io/settings → Features → enable Discussions
+# 1. Go to https://github.com/zachc-ai/zachc-ai.github.io/settings → Features → enable Discussions
 # 2. Go to https://giscus.app and fill in your repo to get repo_id, category, and category_id
 # 3. Uncomment and fill in the values below:
 # giscus:
-#   repo: "Fighter-ZC/Fighter-ZC.github.io"
+#   repo: "zachc-ai/zachc-ai.github.io"
 #   repo_id: ""
 #   category: "Announcements"
 #   category_id: ""

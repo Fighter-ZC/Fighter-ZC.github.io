@@ -1,6 +1,6 @@
 title: ZC's Blog
 description: Tech and life, one post at a time.
-url: "https://fighter-zc.github.io"
+url: "https://zachc-ai.github.io"
 baseurl: ""
 
 theme: minima
@@ -34,7 +34,7 @@ defaults:
 author: ZC
 
 giscus:
-  repo: "Fighter-ZC/Fighter-ZC.github.io"
+  repo: "zachc-ai/zachc-ai.github.io"
   repo_id: "R_kgDORoQKJg"
   category: "Announcements"
   category_id: "DIC_kwDORoQKJs4C4jVh"
